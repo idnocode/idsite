@@ -1,9 +1,9 @@
 # IDNoCode - Designer Web Indépendant
 
-Lien **{PROJET_NOM}** en ligne :  
-[{PROJET_LIEN}](PROJET_LIEN)
+Lien **iDSite** en ligne :  
+[https://idnocode.github.io/idsite/](https://idnocode.github.io/idsite/)
 
-Bienvenue sur le dépôt du site **{PROJET_NOM}**, conçu par **IDNoCode**, un designer web indépendant. J’aide les entreprises, entrepreneurs et créateurs à développer leur présence en ligne avec des solutions modernes, élégantes et sur-mesure.
+Bienvenue sur le dépôt du site **iDSite**, conçu par **IDNoCode**, un designer web indépendant. J’aide les entreprises, entrepreneurs et créateurs à développer leur présence en ligne avec des solutions modernes, élégantes et sur-mesure.
 
 ## 🚀 À propos
 
@@ -43,7 +43,7 @@ Je suis **IDNoCode**, un designer web passionné, spécialisé dans la création
 Contactez-moi via Instagram : [@idnocode](https://www.instagram.com/idnocode/)
 
 Découvrez mon projet **{PROJET_NOM}** en ligne :  
-[{PROJET_LIEN}](PROJET_LIEN)
+[https://idnocode.github.io/idsite/](https://idnocode.github.io/idsite/)
 
 ## 📜 Licence
 
